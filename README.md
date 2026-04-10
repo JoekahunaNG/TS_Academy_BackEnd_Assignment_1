@@ -52,6 +52,15 @@ A RESTful API for a School Library System built with Node.js, Express, and Mongo
    - For development: `npm run dev`
    - For production: `npm start`
 
+## Interactive API Documentation (Swagger)
+
+For an interactive experience where you can test the API directly from your browser, use the Swagger UI:
+
+1. Start the server (`npm run dev`).
+2. Navigate to: **`http://localhost:5000/api-docs`**
+3. Use the **"Try it out"** button on any endpoint to send live requests.
+4. View detailed **Schemas** at the bottom of the page to understand the data models.
+
 ## API Documentation
 
 ### 1. Authors
